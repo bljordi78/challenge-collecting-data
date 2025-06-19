@@ -7,7 +7,7 @@
 ## Disclaimer
 Due to the lengthy process of setting a list of all properties advertising URLs, the project is divided in 2 parts:
 - The scraping part (includes main.py, get_links.py, scrape_links.py)
-- A notebook where I clean up the scraping output (cleadData.ipynb)
+- A notebook where I clean up the scraping output (cleanData.ipynb)
 
 
 ## The Mission
