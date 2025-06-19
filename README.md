@@ -1,6 +1,6 @@
 # COLLECTING DATA CHALLENGE
 
-## Becode project to build a scraper to retrieve data from properties on sale from Immovlan website
+## Becode project to build a scraper to retrieve data from properties on sale by Immovlan
 ## Author: Jordi Batlle
 
 
